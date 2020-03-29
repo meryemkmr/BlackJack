@@ -1,0 +1,73 @@
+.hand{
+    padding: 50px;
+}
+
+.buttons{
+    /* text-align: center; */
+}
+.bg-primary{
+    background-color: rgb(106, 240, 53) !important;
+}
+.text-center{
+    color: black;
+}
+
+#table{
+    border-width: 15px !important;
+    border-radius: 25px !important;
+    margin-top: 50px;
+    padding: 80px;
+    display: block;
+}
+
+hr{
+    border-top: 2px solid rgba(131, 94, 94, 0.5);
+}
+
+.hand{
+    padding: 10px;
+    height: 150px;
+    margin-bottom: 10px;
+}
+
+.hand img{
+    width: 90px;
+    display: block;
+    float: left;
+    margin-left: 5px;
+}
+
+#deal-button{
+    display:inline-block;
+    background-color: brown;
+}
+
+#hit-button{
+    display: none;
+    background-color: brown;
+}
+
+#stand-button{
+    display: none;
+    background-color: brown;
+}
+
+label{
+    font-size: 1.5rem;
+}
+
+#message{
+    display: none;
+    font-size: 1.5rem;
+    color: blue !important;
+}
+
+#mainContainer{
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.border
+{border: 1px solid rgb(15, 12, 11) !important;
+
+}
