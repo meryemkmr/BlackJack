@@ -36,6 +36,10 @@ hr{
     float: left;
     margin-left: 5px;
 }
+img{
+    width: 75px;
+    height: 100px;
+}
 
 #deal-button{
     display:inline-block;

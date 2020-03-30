@@ -1,5 +1,7 @@
 <h1>Blackjack Game</h1>
 
+<h1> Live Link: https://onlineblackjack.netlify.com/ </h1>
+
 <h2>Introduction</h2>
 This is a classic 21 Blackjack card game. The objective of this game is to beat the dealer, and it can be done with the following options:
 
@@ -26,7 +28,7 @@ This is a classic 21 Blackjack card game. The objective of this game is to beat 
 
 
 <h2>Code</h2>
-To see the full code, please visit <a href="https://github.com/Chris-Humphrey/Blackjack-Game">Blackjack Game</a> on Github.
+To see the full code, please visit <a href="https://github.com/merymkmr/BlackJack">Blackjack Game</a> on Github.
 
 
 <h2>Author</h2>
